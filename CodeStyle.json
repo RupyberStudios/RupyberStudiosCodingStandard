@@ -1,0 +1,14 @@
+{
+  "type": "json",
+  "array": [
+    "One",
+    2,
+    {
+      "three": 3
+    }
+  ],
+  "dictionary": {
+    "one": 1,
+    "2": "two"
+  }
+}
