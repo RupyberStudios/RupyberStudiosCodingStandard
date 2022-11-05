@@ -7,4 +7,4 @@
 
 ## Resources
 
-- Block models and Block/Item/Entity textures must be grouped in folders
+- Block models and Block/Item/Entity textures should be grouped in folders
